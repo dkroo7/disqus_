@@ -81,7 +81,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'bootstrapform',
     'disqus.discussions',
-    'disqus.pushpa',
+
     'social_django',
 ]
 
